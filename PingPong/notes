@@ -1,0 +1,30 @@
+This is the file I will use for taking notes in this game making project. I will follow a tutorial to make pong.
+
+So what we want to do is to create an exe file (on windows, it can be something else another time) that we can publish
+
+What generates this executable file for us, is the compiler and the linker. The compiler compiles the files and the linker links different files together
+
+when the game is running you repeat the same 3 things over and over
+    1. input // Where the player interacts
+    2. Simulation // Where everything is updated
+    3. Rendering // Render everything
+
+
+ - Games, just like any software, are instructions for hardware to execute, for example, an nvidia GPU, an intel x64 cpu, etc
+
+|  Game  | --- 1. Platform Independent (Most of the game)
+|Software| --- 2. Platform Dependent (different for every platform (OS), like Windows, PS4, Xbox, etc)
+
+  | OS | --- The software that actually uses the drivers is the OS (operating System)
+
+| Drivers | --- Pieces of software that the hardware manufacturers create to communicate with their software
+
+| Hardware |
+
+
+For the game code, we have code that is specific to the game at the top (closest to the user), and at the bottom, we have the physics engines, visual engines, animation engines, etc. Most of the engines, other than the Gameplay, can be copied from game-to-game (on a basic level)
+
+This code is called "The game engine"
+
+Therefore, there are many softwares that provide ready made software and let you use it with GUI to create a game. These include UNITY, UNREAL and GAMEMAKERSTUDIO1-2 
+
