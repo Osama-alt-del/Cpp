@@ -1,5 +1,6 @@
 // This is the platform dependent code for the game:
 // So first we are going to include the windows library:
+// !! The problem is that I'm using a linux computer, and therefore don't have this header !!
 #include <windows.h>
 
 // So win32 is an API that allows devs to create applications for the Windows Operating System
