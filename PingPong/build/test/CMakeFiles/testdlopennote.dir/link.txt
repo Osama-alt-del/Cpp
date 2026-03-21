@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -g -DNDEBUG CMakeFiles/testdlopennote.dir/testdlopennote.c.o CMakeFiles/sdltests_utils.dir/testutils.c.o -o testdlopennote  -Wl,-rpath,/home/spaidory/Programming/C++/PingPong/build ../libSDL3_test.a ../libSDL3.so.0.5.0 

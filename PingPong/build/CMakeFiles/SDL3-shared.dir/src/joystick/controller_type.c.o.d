@@ -1,0 +1,6 @@
+CMakeFiles/SDL3-shared.dir/src/joystick/controller_type.c.o: \
+ /home/spaidory/Programming/C++/PingPong/SDL/src/joystick/controller_type.c \
+ /usr/include/stdc-predef.h \
+ /home/spaidory/Programming/C++/PingPong/SDL/src/SDL_internal.h \
+ /home/spaidory/Programming/C++/PingPong/SDL/src/joystick/controller_type.h \
+ /home/spaidory/Programming/C++/PingPong/SDL/src/joystick/controller_list.h

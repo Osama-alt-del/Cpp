@@ -1,0 +1,1 @@
+/usr/bin/cc -O2 -g -DNDEBUG CMakeFiles/testnative.dir/testnative.c.o CMakeFiles/testnative.dir/testnativex11.c.o CMakeFiles/sdltests_utils.dir/testutils.c.o -o testnative  -Wl,-rpath,/home/spaidory/Programming/C++/PingPong/build ../libSDL3_test.a ../libSDL3.so.0.5.0 /usr/lib/x86_64-linux-gnu/libX11.so 
