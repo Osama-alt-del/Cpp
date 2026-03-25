@@ -1,9 +1,8 @@
 // Example program:
 // Using SDL3 to create an application window
 
-// For some reason the <> include can't find the include path?
 #include <SDL3/SDL.h>
-#include <SDL3/SDL_main.h> // Why do we need this?
+#include <SDL3/SDL_main.h> 
 
 int main(int argc, char* argv[]) {
 
